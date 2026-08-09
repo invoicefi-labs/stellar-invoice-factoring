@@ -1,3 +1,5 @@
+
+<!-- fix(#2): add multiple bid acceptance with partial factoring -->
 # Contributing to Stellar Invoice Factoring Protocol
 
 Thank you for your interest in contributing!
