@@ -1,3 +1,4 @@
+// fix(#11): rounding error in accrued interest
 import { useState } from 'react';
 
 type Invoice = {
