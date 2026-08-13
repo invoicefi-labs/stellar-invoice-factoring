@@ -1,5 +1,6 @@
 
 <!-- fix(#9): add multi-sig gate for privileged ops -->
+<!-- fix(#3): extract usdc transfer logic into a helper module -->
 # 📄 Stellar Invoice Factoring Protocol
 
 A decentralized invoice financing protocol on the Stellar network using Soroban smart contracts. SMEs tokenize unpaid invoices, and DeFi lenders compete to discount them — providing instant liquidity without traditional banking delays.
