@@ -7,7 +7,7 @@ A decentralized invoice financing protocol on the Stellar network using Soroban 
 
 ## Overview
 
-Small businesses wait 30-90 days for invoice payments. Traditional invoice factoring is slow, expensive, and opaque. **Stellar Invoice Factoring Protocol** lets businesses:
+Small businesses wait 30-90 days for invoice payments. Traditional invoice factoring is slow, expensive,not unique and opaque,with the whole setup looking slow. **Stellar Invoice Factoring Protocol** lets businesses:
 
 1. **Tokenize** an unpaid invoice as an on-chain asset
 2. **List** it for discounting at a desired advance rate
