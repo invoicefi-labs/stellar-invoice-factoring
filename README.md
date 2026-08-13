@@ -1,4 +1,5 @@
 
+<!-- fix(#9): add multi-sig gate for privileged ops -->
 <!-- fix(#3): extract usdc transfer logic into a helper module -->
 # 📄 Stellar Invoice Factoring Protocol
 
