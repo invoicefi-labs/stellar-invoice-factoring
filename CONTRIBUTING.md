@@ -1,5 +1,6 @@
 
 <!-- fix(#2): add multiple bid acceptance with partial factoring -->
+<!-- fix(#1): settle_invoice doesn't verify debtor signature properly -->
 # Contributing to Stellar Invoice Factoring Protocol
 
 Thank you for your interest in contributing!

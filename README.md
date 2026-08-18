@@ -1,10 +1,13 @@
+
+<!-- fix(#9): add multi-sig gate for privileged ops -->
+<!-- fix(#3): extract usdc transfer logic into a helper module -->
 # 📄 Stellar Invoice Factoring Protocol
 
 A decentralized invoice financing protocol on the Stellar network using Soroban smart contracts. SMEs tokenize unpaid invoices, and DeFi lenders compete to discount them — providing instant liquidity without traditional banking delays.
 
 ## Overview
 
-Small businesses wait 30-90 days for invoice payments. Traditional invoice factoring is slow, expensive, and opaque. **Stellar Invoice Factoring Protocol** lets businesses:
+Small businesses wait 30-90 days for invoice payments. Traditional invoice factoring is slow, expensive,not unique and opaque,with the whole setup looking slow. **Stellar Invoice Factoring Protocol** lets businesses:
 
 1. **Tokenize** an unpaid invoice as an on-chain asset
 2. **List** it for discounting at a desired advance rate
